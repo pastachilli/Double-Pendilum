@@ -5,4 +5,6 @@ Has multiple sliders and buttons that make the simulator more interactive.
 
 The program uses a formula that you can find here: https://www.myphysicslab.com/pendulum/double-pendulum-en.html
 
-You can run a demo of the program here: https://editor.p5js.org/Pastachilli/full/Z6I_P6YYJ
+This program was developed in p5js. You can access p5js here: www.p5js.org
+
+You can run a demo of the program here: https://pastachilli.github.io/Double-Pendilum/
